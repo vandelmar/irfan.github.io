@@ -892,7 +892,7 @@ input, select, textarea {
 
 /* Mobile */
 
-	@media screen and (max-width: 1280px) {
+	@media screen and (max-width: 736px) {
 
 		/* Basic */
 
@@ -973,7 +973,7 @@ input, select, textarea {
 
 		#bg {
 			background-size: 900px auto;
-			width: 2250px;
+			width: 900px;
 		}
 
 	/* Header */
@@ -1000,7 +1000,7 @@ input, select, textarea {
 
 /* Mobile (Portrait) */
 
-	@media screen and (max-width: 1280px) {
+	@media screen and (max-width: 480px) {
 
 		/* BG */
 
@@ -1071,7 +1071,7 @@ input, select, textarea {
 
 		#bg {
 			background-size: 412.5px auto;
-			width: 2250px;
+			width: 1237.5px;
 		}
 
 	/* Header */
