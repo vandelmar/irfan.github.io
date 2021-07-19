@@ -897,7 +897,8 @@ input, select, textarea {
 		/* Basic */
 
 			body {
-				min-width: 320px;
+/* 				min-width: 320px; */
+				min-width: 1280px;
 			}
 
 			body, input, select, textarea {
