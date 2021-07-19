@@ -897,8 +897,7 @@ input, select, textarea {
 		/* Basic */
 
 			body {
-/* 				min-width: 320px; */
-				min-width: 1280px;
+				min-width: 320px;
 			}
 
 			body, input, select, textarea {
@@ -973,7 +972,8 @@ input, select, textarea {
 		}
 
 		#bg {
-			background-size: 900px auto;
+/* 			background-size: 900px auto; */
+			background-size: cover;
 			width: 900px;
 		}
 
@@ -1071,7 +1071,8 @@ input, select, textarea {
 		}
 
 		#bg {
-			background-size: 412.5px auto;
+/* 			background-size: 412.5px auto; */
+			background-size: cover;
 			width: 1237.5px;
 		}
 
