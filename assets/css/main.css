@@ -972,9 +972,8 @@ input, select, textarea {
 		}
 
 		#bg {
-/* 			background-size: 900px auto; */
-			background-size: cover;
-			width: 900px;
+			background-size: 1500px auto;
+			width: 1500px;
 		}
 
 	/* Header */
@@ -1071,9 +1070,8 @@ input, select, textarea {
 		}
 
 		#bg {
-/* 			background-size: 412.5px auto; */
-			background-size: cover;
-			width: 1237.5px;
+			background-size: 1500px auto;
+			width: 1500px;
 		}
 
 	/* Header */
